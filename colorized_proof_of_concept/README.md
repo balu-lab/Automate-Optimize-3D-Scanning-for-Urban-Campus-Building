@@ -5,7 +5,7 @@ Definition and colorization of individual objects is done manually, but ultimate
 **Table of Contents**
 1. [Directories](#dirs)
 2. [Notebooks](#books)
-3. [Download and Usage](#usage)
+3. [Install and Usage](#usage)
    
 ### Raw data, no objects defined
 <img src="Images/monroe_raw.png" width=500/>
@@ -22,7 +22,7 @@ Definition and colorization of individual objects is done manually, but ultimate
 - `example_pipeline.ipynb` : example pipeline usage for manipulating point cloud data.
 - `example_visual.ipynb` : example of loading and visualizing a previously colorized scene.
 
-## Usage <a name="usage"></a>
+## Install and Usage <a name="usage"></a>
 1. After downloading/cloning the repo, ensure current directory: `cd colorized_proof_of_concept`.
 2. run `chmod +x create_conda_env.sh` to create the environemnt.
 3. Open the notebook in VS Code or Jupyter and test the example notebooks.
