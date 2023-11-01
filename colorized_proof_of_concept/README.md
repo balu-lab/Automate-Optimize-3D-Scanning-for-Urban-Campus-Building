@@ -24,5 +24,5 @@ Definition and colorization of individual objects is done manually, but ultimate
 
 ## Install and Usage <a name="usage"></a>
 1. After downloading/cloning the repo, ensure current directory: `cd colorized_proof_of_concept`.
-2. run `chmod +x create_conda_env.sh` to create the environemnt.
+2. run `chmod +x create_conda_env.sh` and `./create_conda_env.sh`to create the environemnt.
 3. Open the notebook in VS Code or Jupyter and test the example notebooks.
