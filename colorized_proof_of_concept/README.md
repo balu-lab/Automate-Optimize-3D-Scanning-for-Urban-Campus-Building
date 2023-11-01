@@ -8,10 +8,10 @@ Definition and colorization of individual objects is done manually, but ultimate
 3. [Download and Usage](#usage)
    
 ### Raw data, no objects defined
-<img src="images/monroe_raw.png" width=500/>
+<img src="Images/monroe_raw.png" width=500/>
 
 ### Final scene loaded and visualized as single .ply file
-<img src="images/monroe_final.png" width=500/>
+<img src="Images/monroe_final.png" width=500/>
 
 ## Directories <a name="dirs"></a>
 - Data : contains point cloud data in a `.csv`.
