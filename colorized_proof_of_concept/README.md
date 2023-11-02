@@ -5,7 +5,8 @@ Definition and colorization of individual objects is done manually, but ultimate
 **Table of Contents**
 1. [Directories](#dirs)
 2. [Notebooks](#books)
-3. [Install and Usage](#usage)
+3. [Scripts](#scripts)
+4. [Install and Usage](#usage)
    
 ### Raw data, no objects defined
 <img src="Images/monroe_raw.png" width=500/>
@@ -21,6 +22,11 @@ Definition and colorization of individual objects is done manually, but ultimate
 ## Notebooks <a name="books"></a>
 - `example_pipeline.ipynb` : example pipeline usage for manipulating point cloud data.
 - `example_visual.ipynb` : example of loading and visualizing a previously colorized scene.
+- `mesh_by_object.ipynb` : example of creating triangulated mesh of each colorized scene object
+
+## Scripts <a name="scripts"></a>
+- `pipeline.py` : pipeline as importable function
+- `color_palettes.py` : importable color palette functions
 
 ## Install and Usage <a name="usage"></a>
 1. After downloading/cloning the repo, ensure current directory: `cd colorized_proof_of_concept`.
