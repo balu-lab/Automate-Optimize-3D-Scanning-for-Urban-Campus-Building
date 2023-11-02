@@ -14,6 +14,9 @@ Definition and colorization of individual objects is done manually, but ultimate
 ### Final scene loaded and visualized as single .ply file
 <img src="Images/monroe_final.png" width=500/>
 
+### Colorized Mesh Created in MeshLab
+<img src="Images/monroe_mesh.png" width=500/>
+
 ## Directories <a name="dirs"></a>
 - Data : contains point cloud data in a `.csv`.
 - Images : contains screenshots of example outputs.
