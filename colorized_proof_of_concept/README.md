@@ -14,10 +14,10 @@ Definition and colorization of individual objects is done manually, but ultimate
 ### Final scene loaded and visualized as single .ply file
 <img src="Images/monroe_final.png" width=500/>
 
-### Colorized Mesh Created in Open3D (Ball Pivoting)
+### Suboptimal Colorized Mesh Created in Open3D (Ball Pivoting)
 <img src="Images/monroe_mesh_open3d.png" width=500/>
 
-### Colorized Mesh Created in MeshLab (Ball Pivoting)
+### Suboptimal Colorized Mesh Created in MeshLab (Ball Pivoting)
 <img src="Images/monroe_mesh.png" width=500/>
 
 ## Directories <a name="dirs"></a>
